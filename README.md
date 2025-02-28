@@ -251,7 +251,3 @@ Use my referral link to get started: [https://www.qblocks.cloud/invite/qb-f7a82c
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers/index)
 - [LoRA for Beginners](https://huggingface.co/blog/lora) (Hugging Face blog)
 - [Fine-tuning LLMs with PEFT](https://www.philschmid.de/fine-tune-llms-with-peft) (tutorial)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
